@@ -3,9 +3,9 @@ ArTrivia: Harvesting ArabicWikipedia to Build A New Arabic Question Answering Da
 # Dataset
 The directory Data has the following files :
 * ArTrivia-Dev.json --> Raw ArTrivia development dataset
-* ArTrivia-Dev-pre --> Pre-processed ArTrivia development dataset
-* ArTrivia-Dev.json --> Raw ArTrivia training dataset
-* ArTrivia-Dev.json --> Pre-processed ArTrivia training dataset
+* ArTrivia-Dev-pre.json --> Pre-processed ArTrivia development dataset
+* ArTrivia-Train.json --> Raw ArTrivia training dataset
+* ArTrivia-Train-pre.json --> Pre-processed ArTrivia training dataset
 
 The pro-processing of the dataset is done following the same steps that AraELECTRA adapted and can be followed through this notebook : 
 https://colab.research.google.com/drive/1hik0L_Dxg6WwJFcDPP1v74motSkst4gE?usp=sharing 
