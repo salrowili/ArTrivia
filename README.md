@@ -11,7 +11,8 @@ The directory Data has the following files (to see a sample of the dataset, use 
 
 The pro-processing of the dataset is done following the same steps that AraELECTRA adapted and can be followed through this notebook : 
 https://colab.research.google.com/drive/1hik0L_Dxg6WwJFcDPP1v74motSkst4gE?usp=sharing 
-The notebook is shared at AraBERT Github Page: https://github.com/aub-mind/arabert/tree/master/examples
+
+The notebook to pre-process the dataset is from AraBERT Github Page: https://github.com/aub-mind/arabert/tree/master/examples
 # Things to do in the Future on this repo page :
 * Update ArTrivia to Huggginface Hub
 * Create and share notebooks to evaluate ArTrivia and TyDi using both ELECTRA and T5 models.
