@@ -20,7 +20,11 @@ The notebook to pre-process the dataset is from AraBERT Github Page: https://git
 * Share API codes to retrieve structured datasets from Wikipedia (e.g., Wikipedia Entity Description, WikiData).
 * ChatGPT API anntoation code.
 * Evaluate ArTrivia in the Open-Domain setting (no passage given) and compare to LLMs.
-  
+
+
+# Acknowledgment
+We would like to acknowledge the support from the TPU Research Cloud (TRC) team for granting us access to TPUv3 units.
+
 # Citation
 ```bibtex
 @inproceedings{alrowili-vijay-shanker-2023-artrivia,
